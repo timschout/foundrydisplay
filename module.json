@@ -1,15 +1,15 @@
 {
-    "id": "foundrydisplay",
-    "title": "Foundry module test",
-    "description": "A display test for foundry vtt module",
-    "author": [
-      {
-        "name": "Tim"
-      }
-    ],
-    "version": "0.1",
-    "compatibility": {
-      "minimum": "9",
-      "verified": "10"
+  "id": "foundrydisplay",
+  "title": "display - An Example FVTT Module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "authors": [
+    {
+    "name": "Atropos"
     }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
 }
