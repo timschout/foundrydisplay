@@ -1,0 +1,15 @@
+{
+    "id": "foundrydisplay",
+    "title": "Foundry module test",
+    "description": "A display test for foundry vtt module",
+    "author": [
+      {
+        "name": "Tim"
+      }
+    ],
+    "version": "0.1",
+    "compatibility": {
+      "minimum": "9",
+      "verified": "10"
+    }
+}
